@@ -4,7 +4,6 @@
 import requests, time, hashlib, urllib.request, re, json
 from moviepy.editor import *
 import os, sys, threading
-import signal
 import imageio
 imageio.plugins.ffmpeg.download()
 
